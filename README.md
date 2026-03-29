@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Web Development and Flutter<br>🎯Goal: Become a Full Stack Developer<br>🎲 Fun fact: I love solving coding problems, playing football ⚽ and traveling ✈️</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Web Development and Flutter<br>🎯Goal: Become a Full Stack Developer<br>🎲 Fun fact: I love solving coding problems, playing football ⚽ & traveling ✈️</p>
 
 ###
 
