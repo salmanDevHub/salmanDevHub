@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="236" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
+  <img  height="380" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
 </div>
 
 ###
@@ -83,8 +83,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanDevHub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
